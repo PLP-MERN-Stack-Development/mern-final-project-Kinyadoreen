@@ -1,0 +1,15 @@
+{
+  "short_name": "EduBridge",
+  "name": "EduBridge - Quality Education for All",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#2563EB"
+}
